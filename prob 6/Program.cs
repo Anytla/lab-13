@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class Ex6
+class Ex6 
 {
     static void Main()
     {
-        string sentence = Console.ReadLine(); // речення
+        string sentence = Console.ReadLine(); // речення яке потрібно
 
         if (sentence != null)
         {
